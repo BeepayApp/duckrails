@@ -22,3 +22,7 @@
 */**/.keep
 
 /public/assets
+
+
+# IDEs
+/.idea
